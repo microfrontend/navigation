@@ -12,7 +12,7 @@ class App extends Component {
         <div
           className="navigation--item"
           onClick={e=>this.navClick(e)}>
-          Otomatik Odeme Talimati
+          Otomatik Odeme Talimatis
         </div>
         <div
           className="navigation--item"
